@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://findmehere.vercel.app/</loc>
-  </url>
-  <url>
-    <loc>https://findmehere.vercel.app/invoice.html</loc>
-  </url>
+<url><loc>https://findmehere.vercel.app/</loc></url>
+<url><loc>https://findmehere.vercel.app/templates.html</loc></url>
+<url><loc>https://findmehere.vercel.app/invoice.html</loc></url>
+<url><loc>https://findmehere.vercel.app/websites-rwanda.html</loc></url>
+<url><loc>https://findmehere.vercel.app/graphic-design-rwanda.html</loc></url>
+<url><loc>https://findmehere.vercel.app/cv-design-rwanda.html</loc></url>
+<url><loc>https://findmehere.vercel.app/digital-services-musanze.html</loc></url>
+<url><loc>https://findmehere.vercel.app/checkup.html</loc></url>
 </urlset>
